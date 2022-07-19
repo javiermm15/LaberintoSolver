@@ -208,7 +208,7 @@ void solveMaze(const char* nombre) {
 int main() {
 	printf("Proyecto: Resolver el laberinto\n\n");
 
-	// Calls the solve maze function because is a fucking bad practice to do everything on the main
+	
 	solveMaze("laberinto.txt");
 }
 
